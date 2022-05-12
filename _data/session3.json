@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Knowledge-Based Recommendations for Climbers",
+    "authors": " Iustina Ivanova, Marina Andrić and Francesco Ricci",
+    "type": "PP",
+    "duration": 10
+  },
+  {
+    "title": "Target-guided Knowledge-aware Recommendation Dialogue System: An Empirical Investigation",
+    "authors": "Dongding Lin, Jian Wang and Wenjie Li",
+    "type": "LP",
+    "duration": 15
+  },
+  {
+    "title": "Enhancing gazetteers for named entity recognition in conversational recommender systems",
+    "authors": "Nicholas Dingwall and Vianne Gao",
+    "type": "LP",
+    "duration": 15
+  }
+]

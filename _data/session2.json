@@ -1,0 +1,20 @@
+[
+  {
+    "title": "On the extraction and use of arguments in recommender systems: A case study in the e-participation domain",
+    "authors": "Andrés Segura-Tinoco and Iván Cantador",
+    "type": "LP",
+    "duration": 15
+  },
+  {
+    "title": "Constraint-Aware Recommendation of Complex Items",
+    "authors": "Mathias Uta, Alexander Felfernig and Denis Helic",
+    "type": "LP",
+    "duration": 15
+  },
+  {
+    "title": "On the Need for a Body of Knowledge on Recommender Systems",
+    "authors": "Juri Di Rocco, Davide Di Ruscio, Claudio Di Sipio, Phuong T. Nguyen and Claudio Pomo",
+    "type": "PP",
+    "duration": 10
+  }
+]
