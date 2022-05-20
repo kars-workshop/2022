@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: '3rd Workshop of Knowledge-aware and Conversational Recommender Systems'
+title: '4th Workshop of Knowledge-aware and Conversational Recommender Systems'
 
 google_analytics_id: ""
 
@@ -15,13 +15,13 @@ logo:
 
 footer:
   credits: ''
-  copyright_text: '©2021 SisInfLab.'
+  copyright_text: '©2022 SisInfLab.'
 
 seo:
-  meta_og_title: "3rd Workshop of Knowledge-aware and Conversational Recommender Systems"
+  meta_og_title: "4th Workshop of Knowledge-aware and Conversational Recommender Systems"
   meta_og_type: "website"
-  meta_og_url: "http://sisinflab.poliba.it/kars/2021/"
-  meta_og_image: "https://kars-workshop.github.io/2021/images/preview.png"
+  meta_og_url: "http://kars-workshop.github.io/2022/"
+  meta_og_image: "https://kars-workshop.github.io/2022/images/preview.png"
   meta_og_description: "The purpose of the Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop is to provide a meeting forum for stimulating and disseminating research in Knowledge-aware and Conversational Recommender Systems, where researchers can network and discuss their research results in an informal way."
   meta_twitter_card: "summary"
   meta_twitter_site: "@sisinflab"
