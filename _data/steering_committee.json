@@ -14,11 +14,11 @@
 "personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.Basile"
 },
 {
-"name": "Tommaso Di Noia",
-"image": "images/team/dinoia.jpg",
-"institutionurl": "https://www.poliba.it/",
-"institution": "Polytechnic University of Bari",
-"personalpage": "http://sisinflab.poliba.it/dinoia"
+"name": "Gerard De Melo",
+"image": "images/team/demelo.jpeg",
+"institutionurl": "https://hpi.de/",
+"institution": "Hasso Plattner Institute and University of Potsdam",
+"personalpage": "http://gerard.demelo.org/"
 },
 {
 "name": "Francesco Maria Donini",
@@ -26,6 +26,13 @@
 "institutionurl": "http://www.unitus.it/",
 "institution": "University of Tuscia",
 "personalpage": "http://unitus-public.gomp.it/Docenti/Render.aspx?UID=e02147b4-9a55-47df-a25e-be3e9bb8d269&lingua=en"
+},
+{
+"name": "Antonio Ferrara",
+"image": "https://sisinflab.poliba.it/wp-content/uploads/2020/07/ferrara_2021-360x270.jpg",
+"institutionurl": "https://www.poliba.it",
+"institution": "Polytechnic University of Bari",
+"personalpage": "https://sisinflab.poliba.it/ferrara/"
 },
 {
 "name": "Cataldo Musto",
@@ -40,6 +47,13 @@
 "institutionurl": "https://www.poliba.it/",
 "institution": "Polytechnic University of Bari",
 "personalpage": "http://sisinflab.poliba.it/narducci"
+},
+{
+"name": "Azzurra Ragone",
+"image": "images/team/ragone.jpeg",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "https://it.linkedin.com/in/azzurraragone"
 },
 {
 "name": "Markus Zanker",
