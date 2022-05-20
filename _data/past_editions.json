@@ -1,5 +1,12 @@
 [
   {
+    "year": "2021",
+    "location":"Amsterdam, The Netherlands",
+    "colocation": "RecSys 2021",
+    "conference_url": "https://recsys.acm.org/recsys21/",
+    "url": "https://kars-workshop.github.io/2021"
+  },  
+  {
     "year": "2019",
     "location":"Beijin, CH",
     "colocation": "CIKM 2019",
