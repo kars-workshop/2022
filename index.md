@@ -3,7 +3,7 @@ title: KaRS 2022
 layout: home
 description: 4th Workshop of Knowledge-aware and Conversational Recommender Systems
 date_location: Sept. 18th-23rd, 2022<br>Seattle, WA, USA
-intro_image: "images/amsterdam_h.png"
+intro_image: "images/seattle.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
