@@ -5,10 +5,8 @@ layout: page
 bodyClass: page-about
 ---
 
-## **DUE TO SEVERAL REQUESTS, THE SUBMISSION DEADLINE IS EXTENDED TO AUGUST THE 12TH, 2021**
-
 ## Scope
-We are pleased to invite you to contribute to the **Third Workshop on Knowledge-aware and Conversational Recommender Systems** held in conjunction with the **ACM International Conference on Recommender Systems (RecSys 2021) Amsterdam, the Netherlands, from September the 27th to October the 1st, 2021**.
+We are pleased to invite you to contribute to the **Fourth Workshop on Knowledge-aware and Conversational Recommender Systems** held in conjunction with the **ACM International Conference on Recommender Systems (RecSys 2022) Amsterdam, the Netherlands, from September the 18th to September the 23rd, 2022**.
 
 In the last few years, a renewed interest of the research community on conversational recommender systems (CRSs) is emerging. This is probably due to the great diffusion of Digital Assistants (DAs) such as Amazon Alexa, Siri, or Google Assistant that are revolutionizing the way users interact with machines. DAs allow users to execute a wide range of actions through an interaction mostly based on **natural language** messages.
 However, although DAs are able to complete tasks such as sending texts, making phone calls, or playing songs, they are still at an early stage on offering recommendation capabilities by using the **conversational paradigm**.
@@ -17,7 +15,7 @@ In addition, we have been witnessing the advent of more and more precise and pow
 Most of these approaches rely on the collaborative paradigm (often exploiting machine learning techniques) and do not take into account the huge amount of **knowledge, both structured and non-structured** ones, describing the domain of interest of the recommendation engine.
 Although very effective in predicting relevant items, collaborative approaches miss some very interesting features that go beyond the accuracy of results and move in the direction of providing novel and diverse results as well as generating an explanation for the recommended items. Furthermore, this side information becomes crucial when a conversational interaction is implemented, in particular for the preference elicitation, explanation, and critiquing steps.
 
-The **3rd Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop** focuses on all aspects related to the exploitation of external and explicit knowledge sources to feed and build a recommendation engine, and on the adoption of interactions based on the conversational paradigm. The aim is to go beyond the traditional accuracy goal and to start a new generation of algorithms and approaches with the help of the methodological diversity embodied in fields such as **Machine Learning (ML)**, **Human–Computer Interaction (HCI)**, **Information Retrieval (IR)** and **Information Systems (IS)**. Consequently the focus lies on works improving the user experience and following goals such as user engagement and satisfaction or customer value.
+The **4th Knowledge-aware and Conversational Recommender Systems (KaRS) Workshop** focuses on all aspects related to the exploitation of external and explicit knowledge sources to feed and build a recommendation engine, and on the adoption of interactions based on the conversational paradigm. The aim is to go beyond the traditional accuracy goal and to start a new generation of algorithms and approaches with the help of the methodological diversity embodied in fields such as **Machine Learning (ML)**, **Human–Computer Interaction (HCI)**, **Information Retrieval (IR)** and **Information Systems (IS)**. Consequently the focus lies on works improving the user experience and following goals such as user engagement and satisfaction or customer value.
 
 The aim of this third edition of KaRS is to bring together researchers and practitioners around the topics of designing and evaluating novel approaches for recommender systems in order to:
 * share research and techniques, including new design technologies and evaluation methodologies;
@@ -78,16 +76,16 @@ We invite three kinds of submissions, which address novel issues in Knowledge-aw
 * **Position/Discussion Papers** describe novel and innovative ideas. Position papers may also comprise an analysis of currently unsolved problems, or review these problems from a new perspective, in order to contribute to a better understanding of these problems in the research community. We expect that such papers will guide future research by highlighting critical assumptions, motivating the difficulty of a certain problem or explaining why current techniques are not sufficient, possibly corroborated by quantitative and qualitative arguments. **The Position/Discussion papers must have a length of minimum 2 and maximum 3 pages (plus an unlimited number of pages for references).** Original Position/Discussion accepted papers will be included in the CEUR on-line Workshop proceedings. Selected Position/Discussion papers will be invited as oral presentations.
 
 The review process is **single-blind**. Submitted papers will be evaluated according to their originality, technical content, style, clarity, and relevance to the workshop.
-Moreover, following the RecSys 2021 guidelines, reviewers will be asked to comment on whether the length is appropriate for the contribution. Shorter papers should generally report on advances that can be described, set into context, and evaluated concisely. Longer papers should reflect substantial contributions of lasting value.
+Moreover, following the RecSys 2022 guidelines, reviewers will be asked to comment on whether the length is appropriate for the contribution. Shorter papers should generally report on advances that can be described, set into context, and evaluated concisely. Longer papers should reflect substantial contributions of lasting value.
 Short and long paper submissions must be original work and may not be under submission to another venue at the time of review.
 Accepted papers will appear in the **workshop proceedings**.
 
-Submission will be through Easychair at [https://easychair.org/conferences/?conf=kars2021](https://easychair.org/conferences/?conf=kars2021).
+Submission will be through Easychair at [https://easychair.org/conferences/?conf=kars2022](https://easychair.org/conferences/?conf=kars2022).
 
 ## Important Dates
-* **Paper submissions due**: <s>July 29th</s> August 12th, 2021
-* **Paper acceptance notification**: <s>August 21th</s> August 28th, 2021
-* **Camera ready deadline**: <s>August 28th</s> September 5th, 2021
-* **Workshop day**: Sep 27th - Oct 1st, 2021
+* **Paper submissions due**: August 5th, 2022
+* **Paper acceptance notification**: August 27th, 2022
+* **Camera ready deadline**: September 10th, 2022
+* **Workshop day**: Sep 18th-23rd, 2022
 
 Deadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.
