@@ -14,11 +14,11 @@ main:
   #- name: "Program Committee"
   #  url: "/program-committee/"
   #  weight: 5
-  - name: "Program"
-    url: "/program/"
-    weight: 5
+#   - name: "Program"
+#     url: "/program/"
+#     weight: 5
   - name: "Venue"
-    url: "https://recsys.acm.org/recsys21/location/"
+    url: "https://recsys.acm.org/recsys22/location/"
     weight: 6
   #- name: "Proceedings"
   #  url: "/proceedings/"
