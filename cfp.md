@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 ## Scope
-We are pleased to invite you to contribute to the **Fourth Workshop on Knowledge-aware and Conversational Recommender Systems** held in conjunction with the **ACM International Conference on Recommender Systems (RecSys 2022) Amsterdam, the Netherlands, from September the 18th to September the 23rd, 2022**.
+We are pleased to invite you to contribute to the **Fourth Workshop on Knowledge-aware and Conversational Recommender Systems** held in conjunction with the **ACM International Conference on Recommender Systems (RecSys 2022) Seattle, WA, USA, from September the 18th to September the 23rd, 2022**.
 
 In the last few years, a renewed interest of the research community on conversational recommender systems (CRSs) is emerging. This is probably due to the great diffusion of Digital Assistants (DAs) such as Amazon Alexa, Siri, or Google Assistant that are revolutionizing the way users interact with machines. DAs allow users to execute a wide range of actions through an interaction mostly based on **natural language** messages.
 However, although DAs are able to complete tasks such as sending texts, making phone calls, or playing songs, they are still at an early stage on offering recommendation capabilities by using the **conversational paradigm**.
