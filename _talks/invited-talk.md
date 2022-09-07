@@ -3,7 +3,7 @@ name: Next-Generation Intelligent Assistants for AR/VR Devices
 speakers:
   - Xin Luna Dong
 categories:
-  - Invited Talk
+  - Invited Talks
 ---
 
 An intelligent assistant shall be an agent that knows you and the world, 
