@@ -17,8 +17,8 @@ main:
 #   - name: "Program"
 #     url: "/program/"
 #     weight: 5
-  - name: "Invited Talks"
-    url: "/talks"
+  - name: "Invited Talk"
+    url: "/talks/invited-talk/"
     weight: 5
   - name: "Venue"
     url: "https://recsys.acm.org/recsys22/location/"
