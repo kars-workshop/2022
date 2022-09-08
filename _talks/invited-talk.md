@@ -1,14 +1,21 @@
 ---
 name: Next-Generation Intelligent Assistants for AR/VR Devices
 speakers:
-  - Xin Luna Dong (Meta)
+  - Xin Luna Dong
 categories:
   - Invited Talks
 ---
 
-<div style="float: right;margin-right: 7px;margin-top: 7px;">
-![image](https://lunadong.com/profile.jpeg)
-</div>
+<style type="text/css">
+  .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+</style>
+
+<img src="https://lunadong.com/profile.jpeg" class="image-left" />
 An intelligent assistant shall be an agent that knows you and the world, 
 can receive your requests or predict your needs, and provide you the 
 right services at the right time with your permission. As smart devices 
