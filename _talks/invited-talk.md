@@ -1,7 +1,7 @@
 ---
 name: Next-Generation Intelligent Assistants for AR/VR Devices
 speakers:
-  - Xin Luna Dong
+  - Xin Luna Dong (Meta)
 categories:
   - Invited Talks
 ---
@@ -11,7 +11,7 @@ categories:
       display: block;
       margin-left: auto;
       margin-right: auto;
-      float: right;
+      float: left;
     }
 </style>
 
