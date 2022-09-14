@@ -1,5 +1,5 @@
 ---
-name: Opening physical part
+name: Opening
 hide: true
 categories:
   - Breaks
