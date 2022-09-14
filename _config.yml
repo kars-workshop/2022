@@ -100,15 +100,11 @@ conference:
     main_categories:
       - name: Invited Talks
         color: info
-#      - name: Tutorial
-#        color: dark
       - name: Session
-       color: warning
+        color: warning
       - name: Breaks
         color: success
-#      - name: Award
-#        color: danger
-
+ 
     # Hide icons on talk overview page
     hide_icons: false
 
