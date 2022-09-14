@@ -102,10 +102,10 @@ conference:
         color: info
 #      - name: Tutorial
 #        color: dark
-      # - name: Session
-      #  color: warning
-      # - name: Breaks
-      #  color: success
+      - name: Session
+       color: warning
+      - name: Breaks
+        color: success
 #      - name: Award
 #        color: danger
 
@@ -121,7 +121,7 @@ conference:
     url: '/program'
 
     # Time steps in program table
-    time_steps: 10 # in minutes
+    time_steps: 1 # in minutes
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
