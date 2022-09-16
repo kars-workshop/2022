@@ -30,7 +30,6 @@ bodyClass: page-home
         <div class="col-12 col-md-8">
 
 
-  {%- if nbr_days > 1 %}
   <div style="display:flex;justify-content:space-between">
     <ul class="nav justify-content-left btn-group mb-3" id="day-list" role="tablist">
       {%- for d in site.data.program.days -%}
@@ -44,7 +43,6 @@ bodyClass: page-home
     <div class="btn-group mb-1"><span class="nav-item"><a class="nav-link  btn btn-outline-secondary" href="{{ 'talks' | prepend: '/' | relative_url}}"><i class="fas fa-bullhorn"></i>&nbsp;Talk Overview</a></span></div>
 </div>
     <div class="tab-content" id="day-content">
-  {%- endif %}
 
 
 
