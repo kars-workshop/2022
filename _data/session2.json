@@ -1,14 +1,8 @@
 [
   {
-    "title": "XXX",
-    "authors": "XXX",
-    "type": "LP",
-    "duration": 11
-  },
-  {
     "title": "A Nonparametric Contextual Bandit with Arm-level Eligibility Control for Customer Service Routing",
     "authors": "Ruofeng Wen, Wenjun Zeng and Yi Liu",
     "type": "LP",
-    "duration": 9
+    "duration": 11
   }
 ]
