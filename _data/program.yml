@@ -1,15 +1,15 @@
 days:
-  - name: Sept. 29 - Wednesday
+  - name: Sept. 22 - Thursday
     abbr: We
-    date: 2021-09-30
+    date: 2021-09-22
     rooms:
       - name: Physical
         talks:
           - name: Opening
             time_start: '14:00'
-            time_end: '14:05'
+            time_end: '14:04'
           - name: Session 1
-            time_start: '14:05'
+            time_start: '14:04'
             time_end: '14:40'
           - name: Next-Generation Intelligent Assistants for AR/VR Devices
             time_start: '14:40'
@@ -20,12 +20,6 @@ days:
             hide: true
           - name: Session 2
             time_start: '16:00'
-            time_end: '16:11'
-          - name: Session 3
-            time_start: '16:11'
-            time_end: '16:33'
-          - name: Session 4
-            time_start: '16:33'
             time_end: '17:26'
           - name: Closing
             time_start: '17:26'
