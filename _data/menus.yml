@@ -14,9 +14,9 @@ main:
   #- name: "Program Committee"
   #  url: "/program-committee/"
   #  weight: 5
-#   - name: "Program"
-#     url: "/program/"
-#     weight: 5
+  - name: "Program"
+    url: "/program/"
+    weight: 5
   - name: "Invited Talk"
     url: "/talks/invited-talk/"
     weight: 5
