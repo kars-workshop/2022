@@ -2,7 +2,7 @@
 name: Session 2
 data: session2
 speakers:
-  - TBD
+  - Vincenzo Paparella
 categories:
   - Session
 ---
