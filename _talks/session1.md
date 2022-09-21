@@ -2,7 +2,7 @@
 name: Session 1
 data: session1
 speakers:
-  - TBD
+  - Daniele Malitesta
 categories:
   - Session
 ---
